@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muntaha Adnan</h1>
-<h3 align="center">A Frontend Developer | Learning MERN Stack | Aspiring DevOps Engineer</h3>
+<h3 align="center">A Frontend Developer and Aspiring DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Learning+MERN+Stack+%F0%9F%9A%80;Aspiring+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
@@ -13,17 +13,17 @@
 
 - 🔭 I'm looking to collaborate on **React.js and Frontend projects**
 
-- 🌱 I'm currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🌱 I'm currently learning **MERN Stack **
 
 - 💬 Ask me about **Frontend Development & React**
 
-- ☕ Fun fact: **My code runs on coffee and determination!**
+- ☕ Fun fact: **I turn Coffee into code!**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/muntaha-adnan" target="_blank">
+  <a href="https://linkedin.com/in/muntaha-adnan=" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
