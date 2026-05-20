@@ -1,26 +1,23 @@
-
 <h1 align="center">Hi 👋, I'm Muntaha Adnan</h1>
-<h3 align="center">A passionate Frontend Developer & Student 💻</h3>
+<h3 align="center">A Frontend Developer | Learning MERN Stack | Aspiring DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+Lover;React+%26+TypeScript+Learner;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Learning+MERN+Stack+%F0%9F%9A%80;Aspiring+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding Girl" width="380" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Muntaha-Adnan&label=Profile%20views&color=f75c7e&style=flat" alt="Muntaha-Adnan" />
 </p>
 
-- 🔭 I'm currently working on **SnapZone & Portfolio Projects**
+- 🔭 I'm looking to collaborate on **React.js and Frontend projects**
 
-- 🌱 I'm currently learning **React, TypeScript & JavaScript**
+- 🌱 I'm currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **Frontend Development & React**
 
-- 📫 Reach me at **muntaha@email.com**
-
-- ⚡ Fun fact: **I turn coffee into code ☕**
+- ☕ Fun fact: **My code runs on coffee and determination!**
 
 ---
 
