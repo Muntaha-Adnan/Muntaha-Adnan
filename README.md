@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Muntaha Adnan</h1>
 <h3 align="center">A passionate Frontend Developer & Student 💻</h3>
 
