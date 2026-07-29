@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muntaha Adnan</h1>
-<h3 align="center">A Frontend Developer and Aspiring DevOps Engineer</h3>
+<h3 align="center">A Full stack Developer and Aspiring DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Learning+MERN+Stack+%F0%9F%9A%80;Aspiring+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
@@ -11,12 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=Muntaha-Adnan&label=Profile%20views&color=f75c7e&style=flat" alt="Muntaha-Adnan" />
 </p>
 
-- 🔭 I'm looking to collaborate on **React.js and Frontend projects**
-
-- 🌱 I'm currently learning **MERN Stack **
-
-- 💬 Ask me about **Frontend Development & React**
-
+- 💻 I'm a **Software Engineering student & aspiring Full-Stack Developer**
+- 🚀 I have experience with **JavaScript, React.js, and Python**
+- 🌱 Currently learning **Python Web Development with Django**
+- 🔭 Open to collaborate on **React.js, Python & Django projects**
+- 💬 Ask me about **JavaScript, React, Python, Django**
 - ☕ Fun fact: **I turn Coffee into code!**
 
 ---
